@@ -1,0 +1,6 @@
+{
+	"aws": {
+		"urlLogoUpload": "https://zzzzzzzzzzzzz.execute-api.us-east-2.amazonaws.com/Default/image",
+		"urlJSonInfo": "https://zzzzzzzzzzzzz.execute-api.us-east-2.amazonaws.com/Default/json"
+	}
+}
